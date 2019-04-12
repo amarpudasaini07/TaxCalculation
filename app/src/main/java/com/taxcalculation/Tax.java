@@ -1,4 +1,4 @@
-package com.example.taxcalculation;
+package com.taxcalculation;
 
 public class Tax {
     private float amount,firsttax,secondtax,totaltax,salary;

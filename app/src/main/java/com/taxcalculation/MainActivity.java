@@ -1,4 +1,4 @@
-package com.example.taxcalculation;
+package com.taxcalculation;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.taxcalculation.R;
+import com.taxcalculation.Tax;
 
 public class MainActivity extends AppCompatActivity {
     private TextView result;
